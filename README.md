@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROSNER13
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python, js, html, css
+- 👀 I'm currently creating a game
+- 🌱 I’m currently learning 
 
 <!---
 ROSNER13/ROSNER13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
