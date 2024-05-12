@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ROSNER13
 - 👀 I'm currently creating a game
+- 🌐 Pronouns: He/Him
 - 🌱 I’m currently learning 
 
 <!---
