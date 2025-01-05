@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/ee/42/0d/ee420deb9b13f2cf19c18631c957023a.jpg"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROSNER13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROSNER13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -25,5 +28,21 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/8fbs6nsl4pfefako6woabe62h">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8fbs6nsl4pfefako6woabe62h&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/ee/42/0d/ee420deb9b13f2cf19c18631c957023a.jpg"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ROSNER13/ROSNER13/output/snake.svg" alt="Snake animation" />
 
 ###
