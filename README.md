@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ROSNER13/ROSNER13/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ROSNER13/ROSNER13/output/snake.svg" alt="Snake animation" />
 
 ###
