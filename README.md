@@ -31,10 +31,3 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/ee/42/0d/ee420deb9b13f2cf19c18631c957023a.jpg"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ROSNER13/ROSNER13/output/snake.svg" alt="Snake animation" />
-
-###
